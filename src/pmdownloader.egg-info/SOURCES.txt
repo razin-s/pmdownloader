@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pmdownloader/__init__.py
+src/pmdownloader/pmdownloader.py
+src/pmdownloader.egg-info/PKG-INFO
+src/pmdownloader.egg-info/SOURCES.txt
+src/pmdownloader.egg-info/dependency_links.txt
+src/pmdownloader.egg-info/requires.txt
+src/pmdownloader.egg-info/top_level.txt
